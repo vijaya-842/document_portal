@@ -1,9 +1,0 @@
-[2026-10-13 18:13:04,595] ERROR exception_experiment (line:29) 
-        Error in [C:\document_portal\exception\custom_exception.py] at line [26]
-        Message: division by zero
-        Traceback: Traceback (most recent call last):
-  File "C:\document_portal\exception\custom_exception.py", line 26, in <module>
-    1 / 0
-ZeroDivisionError: division by zero
-
-        
