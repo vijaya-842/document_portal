@@ -7,9 +7,7 @@ langchain_community
 pypdf
 faiss-cpu
 langchain-text-splitters
-langchain.vectorstores
 langchain_huggingface
-langchain.prompts
 structlog
 PyMuPDF
 -e .
